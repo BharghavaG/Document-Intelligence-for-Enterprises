@@ -137,6 +137,3 @@ This project is licensed under the MIT License.
 ---
 
 Built with **LangChain**, **Sentence-BERT**, **FAISS**, **Llama 3.1**, and **Streamlit** to transform enterprise document search into an intelligent conversational experience.
-
-```
-
